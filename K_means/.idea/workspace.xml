@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e315e46-88b3-4c94-af2f-74f5f7567111" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/2020_1_27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/src/数字之和/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_27/src/记票统计/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_22/out/production/2021_1_22/到底买不买/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021_1_22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2021_1_22/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -107,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -148,7 +160,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2021_1_22" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -224,17 +236,19 @@
       <workItem from="1608845253790" duration="588000" />
       <workItem from="1609056309857" duration="637000" />
       <workItem from="1610966841981" duration="2384000" />
-      <workItem from="1611322602858" duration="1369000" />
+      <workItem from="1611322602858" duration="1613000" />
+      <workItem from="1611760763100" duration="1236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10755000" />
+    <option name="totallyTimeSpent" value="12235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1735925" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17560321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
