@@ -6,8 +6,6 @@ import java.util.Scanner;
 /**
  * IP地址转十进制数 十进制数转IP地址
  *
- * @author huadekai
- *
  */
 
 public class Main {
