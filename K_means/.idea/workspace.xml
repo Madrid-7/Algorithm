@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e315e46-88b3-4c94-af2f-74f5f7567111" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/2020_1_27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/src/数字之和/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2020_1_27/src/记票统计/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2021_1_22/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2021_1_22/out/production/2021_1_22/到底买不买/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2021_1_22/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2021_1_22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_1_24/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/2021_1_28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021_1_28/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_1_24/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2020_1_24/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_1_24/2020_1_24.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2020_1_24/2021_1_24.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_1_27/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2020_1_27/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K_means/k_means.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K_means/k_means.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/K_means/k_means.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="384">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,8 +83,8 @@
         <option value="$PROJECT_DIR$/src/K_means/ReadData.java" />
         <option value="$PROJECT_DIR$/src/K_means/main.java" />
         <option value="$PROJECT_DIR$/src/K_means/pointBean.java" />
-        <option value="$PROJECT_DIR$/src/K_means/k_means.java" />
         <option value="$PROJECT_DIR$/src/K_means/getDataKMeans.java" />
+        <option value="$PROJECT_DIR$/src/K_means/k_means.java" />
       </list>
     </option>
   </component>
@@ -106,7 +107,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1935" />
     <option name="height" value="1040" />
@@ -125,11 +126,6 @@
             <path>
               <item name="K_means" type="b2602c69:ProjectViewProjectNode" />
               <item name="K_means" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="K_means" type="b2602c69:ProjectViewProjectNode" />
-              <item name="K_means" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="K_means" type="b2602c69:ProjectViewProjectNode" />
@@ -160,7 +156,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2021_1_22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2020_1_24" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -237,12 +233,12 @@
       <workItem from="1609056309857" duration="637000" />
       <workItem from="1610966841981" duration="2384000" />
       <workItem from="1611322602858" duration="1613000" />
-      <workItem from="1611760763100" duration="1236000" />
+      <workItem from="1611760763100" duration="2858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12235000" />
+    <option name="totallyTimeSpent" value="13857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -302,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/K_means/k_means.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="384">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
