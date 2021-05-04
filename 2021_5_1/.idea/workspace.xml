@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2226418f-fcf2-430a-b49d-470bf00b361e" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021_5_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/offer25/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/offer25/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/offer27/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/offer27/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/offer28/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/offer28/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/两两交换链表中的节点/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/2021_5_1/两两交换链表中的节点/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer25/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer26/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer26/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer27/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer28/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer29/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/两两交换链表中的节点/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../排序/src/基数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../排序/src/堆排.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../排序/src/希尔.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../排序/src/选择.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../排序/src/归并.java" beforeDir="false" afterPath="$PROJECT_DIR$/../排序/src/归并.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../排序/src/快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/../排序/src/快排.java" afterDir="false" />
-    </list>
+    <list default="true" id="2226418f-fcf2-430a-b49d-470bf00b361e" name="默认变更列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,17 +61,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -199,6 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619874967195</updated>
       <workItem from="1619874968603" duration="23106000" />
+      <workItem from="1619970993741" duration="34000" />
     </task>
     <servers />
   </component>
@@ -215,5 +178,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
