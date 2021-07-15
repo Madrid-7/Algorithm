@@ -23,7 +23,7 @@ class Node {
 }
 
 public class Solution {
-    public Node copyRandomList(Node head) {
+    public Node copyRandomList1(Node head) {
         if (head == null) {
             return null;
         }
